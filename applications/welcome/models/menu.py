@@ -6,7 +6,7 @@
 #########################################################################
 
 response.title = ' '.join(word.capitalize() for word in request.application.split('_'))
-response.subtitle = T('customize me!')
+response.subtitle = T('charles customized me!')
 
 ## read more at http://dev.w3.org/html5/markup/meta.name.html
 response.meta.author = 'Your Name <you@example.com>'
@@ -98,4 +98,3 @@ def _():
                 ]
          )]
 _()
-
