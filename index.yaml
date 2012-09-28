@@ -1,0 +1,17 @@
+indexes:
+  
+- kind: i2p_posts
+  properties:
+  - name: is_page
+  - name: is_widget
+  - name: menu_show
+  - name: parent_n
+  - name: published
+  - name: menu_order
+
+- kind: i2p_posts
+  properties:
+  - name: is_page
+  - name: published
+  - name: published_on
+    direction: desc  
