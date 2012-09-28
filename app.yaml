@@ -54,8 +54,8 @@ skip_files: |
  (.*\.py[co])|
  (.*/RCS/.*)|
  (\..*)|
- (applications/(admin|examples)/.*)|
- ((admin|examples|welcome)\.(w2p|tar))|
+ # (applications/(admin|examples)/.*)|
+ # ((admin|examples|welcome)\.(w2p|tar))|
  (applications/.*?/(cron|databases|errors|cache|sessions)/.*)|
  ((logs|scripts)/.*)|
  (anyserver\.py)|

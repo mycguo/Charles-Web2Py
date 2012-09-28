@@ -11,7 +11,7 @@ License: LGPLv3 (http://www.gnu.org/licenses/lgpl.html)
 # Configuration parameters for Google App Engine
 ##############################################################################
 LOG_STATS = False      # web2py level log statistics
-APPSTATS = True         # GAE level usage statistics and profiling
+APPSTATS = False         # GAE level usage statistics and profiling
 DEBUG = False          # debug mode
 #
 # Read more about APPSTATS here
